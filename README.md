@@ -1,4 +1,5 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=●●●&theme=★★★&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoutarou123&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoutarou123&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Hi there 👋
